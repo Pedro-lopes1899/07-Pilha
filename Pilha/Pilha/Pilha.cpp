@@ -110,5 +110,4 @@ void pop()
 		free(aux);
 	}
 	
-
 }
